@@ -49,7 +49,6 @@
 ## 🔥 My GitHub Activity
 
 ![Simranjeet's GitHub Streak](https://streak-stats.demolab.com?user=Simran-Kaur1996&theme=default)
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Simran-Kaur1996&theme=github)
 
 ---
 
