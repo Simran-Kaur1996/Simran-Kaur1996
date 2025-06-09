@@ -39,4 +39,4 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/simranjeetkaur31)  
-📧 Email: simran@example.com
+📧 Email: simran31kaur@gmail.com
