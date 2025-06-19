@@ -24,7 +24,7 @@
 |--------|-------------|
 | [🔗 AWS Dynamic Web App](https://github.com/Simran-Kaur1996/AWS-Dynamic-Web-App) | CI/CD pipeline for dynamic app deployment using GitHub Actions, CodeDeploy, and Terraform |
 | [🔗 Containerized ECS Deployment](https://github.com/Simran-Kaur1996/docker-ecr-ecs-deployment) | Secure ECS deployment with Docker, ECR, ALB, and VPC configuration |
-| [🔗 Serverless E-Commerce](https://github.com/Simran-Kaur1996/AWS-Serverless-E-Commerce) | Built using Lambda, API Gateway, S3, DynamoDB, CloudFront |
+| [🔗 Serverless E-Commerce](https://github.com/Simran-Kaur1996/cloud-cart) | Built using Lambda, API Gateway, S3, DynamoDB, CloudFront |
 | [🔗 Linux Admin Learning](https://github.com/Simran-Kaur1996/Linux-Admin-Learning) | Hands-on Linux admin notes, Bash scripts, ACLs, and system setup |
 | [🔗 WordPress Hosting on AWS](https://github.com/Simran-Kaur1996/wordpress-aws-hosting) | Hosted WordPress using EC2, RDS, S3, and Auto Scaling |
 
