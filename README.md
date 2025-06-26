@@ -43,9 +43,3 @@
 ![Simranjeet's GitHub Streak](https://streak-stats.demolab.com?user=Simran-Kaur1996&theme=default)
 
 ---
-
-## 📫 Connect with Me
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/simranjeetkaur31)  
-📧 Email: simran31kaur@gmail.com
