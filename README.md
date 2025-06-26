@@ -33,7 +33,6 @@
 | [🔗 CloudCart – Serverless eCommerce](https://github.com/Simran-Kaur1996/cloud-cart)          | Fully serverless app using Lambda, API Gateway, DynamoDB, CloudFront, GitHub Actions                                      |
 | [🔗 Dockerized ECS Pipeline](https://github.com/Simran-Kaur1996/docker-ecr-ecs-deployment)    | Containerized Node.js backend deployed via Docker, ECR, ECS Fargate with ALB and Terraform                                |
 | [🔗 Dynamic Web App CI/CD](https://github.com/Simran-Kaur1996/AWS-Dynamic-Web-App)            | Dynamic app with automated CI/CD pipeline using GitHub Actions, EC2, CodeDeploy, Terraform                                |
-                                       |
 | [🔗 Linux Admin Learning](https://github.com/Simran-Kaur1996/Linux-Admin-Learning)            | Hands-on Bash scripting, ACLs, cron jobs, Linux permissions for admin & DevSecOps use cases                               |
 | [🔗 AmeshCart – Cloud Commerce Platform](https://github.com/Simran-Kaur1996/ameshcart)        | AI-powered cloud-native eCommerce + claims system using serverless backend, secured APIs, and full CI/CD pipeline         |
 | [🔗 CloudGuardian – Threat Detection System](https://github.com/Simran-Kaur1996/cloudguardian) | Real-time AWS security monitoring using CloudTrail, EventBridge, Lambda, and SNS alerts                                   |
