@@ -36,13 +36,6 @@
 ![Terraform Associate](https://img.shields.io/badge/Terraform-Associate-623CE4?style=for-the-badge&logo=terraform)
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws)
 ![Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure)
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simran-Kaur1996&layout=compact)
-
 ---
 
 ## 🔥 My GitHub Activity
