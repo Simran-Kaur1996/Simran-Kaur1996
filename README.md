@@ -1,8 +1,20 @@
-# 👋 Hi, I'm Simranjeet Kaur
-🚀 **Cloud & DevOps Engineer** with 4+ years of experience in designing and deploying secure, scalable, and automated cloud-native applications.  
-🔧 Proficient in **Docker**, **Kubernetes (EKS/AKS)**, **Terraform**, **GitHub Actions**, **Jenkins**, and **ArgoCD**.  
-☁️ Expert in **AWS services** (EC2, Lambda, API Gateway, RDS, S3, VPC, IAM) and **Azure Fundamentals**.  
-📈 Strong background in **CI/CD automation**, **Infrastructure as Code**, **DevSecOps**, and **Cloud Cost Optimization**.  
+👋 Hi, I'm Simranjeet Kaur
+
+🚀 **Cloud & DevOps Engineer** | **AWS Certified Cloud Developer** | **Azure Certified**  
+🛠️ **Terraform Specialist** | **Kubernetes Practitioner** | **CI/CD Automation Expert**
+
+🎯 Passionate and results-driven Cloud Engineer with 4+ years of experience architecting, automating, and deploying secure, scalable, and cost-optimized cloud-native applications.
+
+🔧 Expert in **Docker**, **Kubernetes (EKS/AKS)**, **Terraform**, **GitHub Actions**, **Jenkins**, **ArgoCD**, and GitOps practices.
+
+☁️ Proven track record with core **AWS services** (EC2, Lambda, S3, RDS, VPC, IAM) and **Azure infrastructure tools**.
+
+📈 Strong foundation in **Infrastructure as Code**, **DevSecOps**, **serverless computing**, **microservices**, and **multi-cloud environments**.
+
+🔒 Committed to cloud security best practices, monitoring, continuous integration, and delivery pipelines that scale with confidence.
+
+🇨🇦 Based in Canada | Actively seeking impactful roles in **Cloud Engineering**, **DevOps**, or **Site Reliability Engineering (SRE)**
+
 ---
 ## 📜 Certifications
 
@@ -34,7 +46,7 @@
 | [🔗 Dockerized ECS Pipeline](https://github.com/Simran-Kaur1996/docker-ecr-ecs-deployment)    | Containerized Node.js backend deployed via Docker, ECR, ECS Fargate with ALB and Terraform                                |
 | [🔗 Dynamic Web App CI/CD](https://github.com/Simran-Kaur1996/AWS-Dynamic-Web-App)            | Dynamic app with automated CI/CD pipeline using GitHub Actions, EC2, CodeDeploy, Terraform                                |
 | [🔗 Linux Admin Learning](https://github.com/Simran-Kaur1996/Linux-Admin-Learning)            | Hands-on Bash scripting, ACLs, cron jobs, Linux permissions for admin & DevSecOps use cases                               |
-| [🔗 AmeshCart – Cloud Commerce Platform](https://github.com/Simran-Kaur1996/ameshcart)        | AI-powered cloud-native eCommerce + claims system using serverless backend, secured APIs, and full CI/CD pipeline         |
+| [🔗 AmeshCart – Cloud Commerce Platform](https://github.com/Simran-Kaur1996/ameshcart)        | cloud-native eCommerce + claims system using serverless backend, secured APIs, and full CI/CD pipeline         |
 | [🔗 CloudGuardian – Threat Detection System](https://github.com/Simran-Kaur1996/cloudguardian) | Real-time AWS security monitoring using CloudTrail, EventBridge, Lambda, and SNS alerts                                   |
 | [🔗 FinSecureLite – Finance Monitoring](https://github.com/Simran-Kaur1996/finsecurelite)     | Cloud finance analytics dashboard using Terraform, Cognito, Lambda, API Gateway, DynamoDB, and CloudWatch                |
 
