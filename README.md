@@ -6,6 +6,12 @@
 📍 Based in Canada | Open to **Cloud Engineer**, **DevOps**, and **Solutions Architect** roles
 
 ---
+## 📜 Certifications
+
+![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-yellow?style=for-the-badge&logo=amazonaws)
+![Terraform Associate](https://img.shields.io/badge/Terraform-Associate-623CE4?style=for-the-badge&logo=terraform)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws)
+![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure)
 
 ## 🔧 Tech Toolbox
 
@@ -41,22 +47,11 @@ Linux, Git, Jenkins, Postman, VS Code, GitHub CLI, Jira, CloudTrail
 
 ---
 
-## 📜 Certifications
 
-![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-yellow?style=for-the-badge&logo=amazonaws)
-![Terraform Associate](https://img.shields.io/badge/Terraform-Associate-623CE4?style=for-the-badge&logo=terraform)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws)
-![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure)
 
 ---
 
-## 📊 GitHub Stats
 
-![Simranjeet's GitHub Streak](https://streak-stats.demolab.com?user=Simran-Kaur1996&theme=default)
-![Simranjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simran-Kaur1996&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simran-Kaur1996&layout=compact)
-
----
 
 ## 🤝 Let's Connect
 
