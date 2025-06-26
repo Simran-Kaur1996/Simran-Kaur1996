@@ -51,11 +51,4 @@
 
 ---
 
-## 🤝 Let's Connect
-
-- 🌐 [LinkedIn](https://linkedin.com/in/simranjeet-kaur-sudan)  
-- 📧 [simranjeetkaursudan@gmail.com](mailto:simranjeetkaursudan@gmail.com)  
-- 💬 Always open to connect, collaborate, or discuss DevOps opportunities!
-
----
 
