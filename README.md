@@ -6,7 +6,13 @@
 📈 Reduced deployment times by 35%+ with CI/CD pipelines & Infrastructure as Code
 
 ---
+## 📜 Certifications
 
+![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect-yellow?style=for-the-badge&logo=amazonaws)
+![Terraform Associate](https://img.shields.io/badge/Terraform-Associate-623CE4?style=for-the-badge&logo=terraform)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws)
+![Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure)
+------
 ## 🛠️ Tech Toolbox
 
 | Category                     | Tools & Skills                                                                                  |
@@ -31,21 +37,11 @@
 | [🔗 CloudCart – Serverless eCommerce](https://github.com/Simran-Kaur1996/cloud-cart)          | Fully serverless app using Lambda, API Gateway, DynamoDB, CloudFront, GitHub Actions                                      |
 | [🔗 Dockerized ECS Pipeline](https://github.com/Simran-Kaur1996/docker-ecr-ecs-deployment)    | Containerized Node.js backend deployed via Docker, ECR, ECS Fargate with ALB and Terraform                                |
 | [🔗 Dynamic Web App CI/CD](https://github.com/Simran-Kaur1996/AWS-Dynamic-Web-App)            | Dynamic app with automated CI/CD pipeline using GitHub Actions, EC2, CodeDeploy, Terraform                                |
-| [🔗 WordPress on AWS](https://github.com/Simran-Kaur1996/wordpress-aws-hosting)               | High availability WordPress site with EC2, RDS, Auto Scaling, S3, Route 53                                                |
+                                       |
 | [🔗 Linux Admin Learning](https://github.com/Simran-Kaur1996/Linux-Admin-Learning)            | Hands-on Bash scripting, ACLs, cron jobs, Linux permissions for admin & DevSecOps use cases                               |
 | [🔗 AmeshCart – Cloud Commerce Platform](https://github.com/Simran-Kaur1996/ameshcart)        | AI-powered cloud-native eCommerce + claims system using serverless backend, secured APIs, and full CI/CD pipeline         |
 | [🔗 CloudGuardian – Threat Detection System](https://github.com/Simran-Kaur1996/cloudguardian) | Real-time AWS security monitoring using CloudTrail, EventBridge, Lambda, and SNS alerts                                   |
 | [🔗 FinSecureLite – Finance Monitoring](https://github.com/Simran-Kaur1996/finsecurelite)     | Cloud finance analytics dashboard using Terraform, Cognito, Lambda, API Gateway, DynamoDB, and CloudWatch                |
-
----
-
-## 📜 Certifications
-
-![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect-yellow?style=for-the-badge&logo=amazonaws)
-![Terraform Associate](https://img.shields.io/badge/Terraform-Associate-623CE4?style=for-the-badge&logo=terraform)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws)
-![Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure)
-![Red Hat Certified System Administrator](https://img.shields.io/badge/RedHat-Certified_System_Administrator-red?style=for-the-badge&logo=redhat)
 
 ---
 
