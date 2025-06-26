@@ -1,7 +1,6 @@
 👋 Hi, I'm Simranjeet Kaur
 
-🚀 **Cloud & DevOps Engineer** | **AWS Certified Cloud Developer** | **Azure Certified**  
-🛠️ **Terraform Specialist** | **Kubernetes Practitioner** | **CI/CD Automation Expert**
+🚀 **Cloud Engineer** | **AWS Certified Cloud Developer** | **Azure Certified**  | **Terraform Specialist** | **Kubernetes** | **CI/CD Automation Expert**
 
 🎯 Passionate and results-driven Cloud Engineer with 4+ years of experience architecting, automating, and deploying secure, scalable, and cost-optimized cloud-native applications.
 
