@@ -24,9 +24,7 @@
 | 🌐 **Networking & Security** | TCP/IP, VPC/VNET, Subnetting, VPN, Load Balancers, DNS, PKI, WAF, Shield, Ingress Controllers |
 | 🗄️ **Databases**            | MongoDB, MySQL                                                                                 |
 | 🔁 **Methodologies**         | Agile, DevOps, Scrum, Kanban, Troubleshooting, FinOps                                          |
-
 ---
-
 ## 🚀 Featured Projects
 
 | 🛠 Project                                                                                     | 💬 Description                                                                                                             |
