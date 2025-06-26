@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Simranjeet Kaur
-
-🚀 **AWS Certified Cloud Developer** | DevOps & Terraform Enthusiast  
-🇨🇦 Based in Canada | Open to **Cloud Engineer**, **DevOps**, and **Platform Engineer** roles  
-💡 Passionate about building scalable, secure, and automated cloud-native solutions  
-📈 Reduced deployment times by 35%+ with CI/CD pipelines & Infrastructure as Code
+🚀 **Cloud & DevOps Engineer** with 4+ years of experience in designing and deploying secure, scalable, and automated cloud-native applications.  
+🔧 Proficient in **Docker**, **Kubernetes (EKS/AKS)**, **Terraform**, **GitHub Actions**, **Jenkins**, and **ArgoCD**.  
+☁️ Expert in **AWS services** (EC2, Lambda, API Gateway, RDS, S3, VPC, IAM) and **Azure Fundamentals**.  
+📈 Strong background in **CI/CD automation**, **Infrastructure as Code**, **DevSecOps**, and **Cloud Cost Optimization**.  
+🇨🇦 Based in Canada | Actively looking for roles in **DevOps**, **Cloud Engineering**, or **SRE**.
 
 ---
 ## 📜 Certifications
