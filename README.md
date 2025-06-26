@@ -3,8 +3,6 @@
 🔧 Proficient in **Docker**, **Kubernetes (EKS/AKS)**, **Terraform**, **GitHub Actions**, **Jenkins**, and **ArgoCD**.  
 ☁️ Expert in **AWS services** (EC2, Lambda, API Gateway, RDS, S3, VPC, IAM) and **Azure Fundamentals**.  
 📈 Strong background in **CI/CD automation**, **Infrastructure as Code**, **DevSecOps**, and **Cloud Cost Optimization**.  
-🇨🇦 Based in Canada | Actively looking for roles in **DevOps**, **Cloud Engineering**, or **SRE**.
-
 ---
 ## 📜 Certifications
 
