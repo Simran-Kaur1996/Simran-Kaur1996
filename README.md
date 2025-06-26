@@ -49,28 +49,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Simranjeet's GitHub Streak](https://streak-stats.demolab.com?user=Simran-Kaur1996&theme=default)  
-![Simranjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simran-Kaur1996&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simran-Kaur1996&layout=compact)
-
----
-
-## 🎯 Goal Project (In Progress)
-
-**🚀 AutoCloudCart – Fully Automated Cloud-Native eCommerce Platform**  
-An advanced eCommerce platform with:
-- Full serverless & containerized microservices  
-- End-to-end CI/CD automation via GitHub Actions + Jenkins  
-- Terraform-based infrastructure  
-- Monitoring via CloudWatch & Prometheus  
-- Open-source + AWS Free Tier deployment
-
-📍 *Repository Coming Soon*
-
----
-
 ## 🤝 Let's Connect
 
 - 🌐 [LinkedIn](https://linkedin.com/in/simranjeet-kaur-sudan)  
