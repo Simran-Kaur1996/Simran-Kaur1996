@@ -41,7 +41,6 @@
 
 ## 📊 GitHub Stats
 
-![Simranjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simran-Kaur1996&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simran-Kaur1996&layout=compact)
 
 ---
